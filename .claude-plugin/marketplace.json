@@ -1,15 +1,20 @@
 {
   "name": "mpellon-superpowers",
   "owner": {
-    "name": "michellepellon"
+    "name": "Michelle Pellon",
+    "email": "mgracepellon@gmail.com"
   },
-  "description": "Curated Claude Code plugins for software development workflows",
+  "metadata": {
+    "description": "Curated Claude Code skills for my daily workflows",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
-      "name": "workbench",
-      "description": "19 skills and 9 commands for Python, JS/TS, SQL, shell scripting, SEO, data visualization, and more",
-      "source": "./plugins/claude-workbench",
-      "tags": ["development", "testing", "data", "seo", "workflow"]
+      "name": "software-development-skills",
+      "description": "A collection of skills related to software development.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/python"]
     }
   ]
 }
