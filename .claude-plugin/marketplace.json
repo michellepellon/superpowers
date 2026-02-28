@@ -11,10 +11,10 @@
   "plugins": [
     {
       "name": "software-development-skills",
-      "description": "A collection of skills related to software development.",
+      "description": "A collection of skills for software development and quality assurance, including Python expertise and documentation auditing.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/python"]
+      "skills": ["./skills/python", "./skills/documentation-audit"]
     }
   ]
 }
