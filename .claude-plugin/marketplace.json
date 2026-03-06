@@ -11,17 +11,17 @@
   "plugins": [
     {
       "name": "software-development-skills",
-      "description": "A collection of skills for software development and quality assurance, including Python expertise and documentation auditing.",
+      "description": "A collection of skills for software development, including Python expertise.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/python", "./skills/documentation-audit"]
+      "skills": ["./skills/python"]
     },
     {
       "name": "quality-gates",
       "description": "Pre-commit quality gates that catch issues before code ships.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/fresh-eyes-review"]
+      "skills": ["./skills/fresh-eyes-review", "./skills/documentation-audit"]
     }
   ]
 }
