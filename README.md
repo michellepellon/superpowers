@@ -25,3 +25,10 @@ Deliberate re-reading of changed code with psychological distance. Catches secur
 **Use when**: About to commit, create a PR, or declare work complete — after `verification-before-completion` confirms tests pass but before code ships.
 
 **Delivers**: Five-checklist sweep (security, logic, business rules, input validation, performance) with immediate fixes and a completion summary.
+
+### Landing Page Design
+Build high-converting, visually distinctive landing pages with anti-AI-slop principles. Forces unique design direction through the Vibe Discovery process so you don't end up with generic purple-gradient-Inter-font pages.
+
+**Use when**: Building marketing pages, product launches, SaaS homepages, or any single-page conversion-focused website.
+
+**Delivers**: Section-by-section composition (hero-first with 50% rule), anti-convergence design choices, animation vocabulary, and quality checklists for visual distinction, technical quality, and conversion optimization.
