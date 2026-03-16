@@ -18,10 +18,10 @@
     },
     {
       "name": "quality-gates",
-      "description": "Pre-commit quality gates that catch issues before code ships.",
+      "description": "Quality gates and retrospective analysis for catching issues and improving workflows.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/fresh-eyes-review", "./skills/documentation-audit"]
+      "skills": ["./skills/fresh-eyes-review", "./skills/documentation-audit", "./skills/session-reflection"]
     },
     {
       "name": "design-skills",
