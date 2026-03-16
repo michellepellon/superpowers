@@ -26,6 +26,13 @@ Deliberate re-reading of changed code with psychological distance. Catches secur
 
 **Delivers**: Five-checklist sweep (security, logic, business rules, input validation, performance) with immediate fixes and a completion summary.
 
+### Session Reflection
+Analyze session history to identify inefficiency patterns and workflow gaps, then propose concrete improvements. Two modes: lightweight end-of-session reflection from conversation context, or comprehensive periodic analysis across multiple sessions.
+
+**Use when**: End of a session, periodic review (weekly/monthly), after a frustrating session, or when onboarding to a new project.
+
+**Delivers**: Structured reflection reports with evidence-based findings (agent behavior patterns, workflow gaps, skill effectiveness) and copy-paste-ready improvement proposals for CLAUDE.md, skills, commands, and automation.
+
 ### Landing Page Design
 Build high-converting, visually distinctive landing pages with anti-AI-slop principles. Forces unique design direction through the Vibe Discovery process so you don't end up with generic purple-gradient-Inter-font pages.
 
