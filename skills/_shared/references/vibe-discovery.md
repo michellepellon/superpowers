@@ -2,7 +2,7 @@
 
 **BEFORE writing any code, you MUST run the Vibe Discovery process.** This is not a lookup table or a style picker. It is a creative process that generates a UNIQUE aesthetic direction every time by grounding design decisions in real-world references and personal context.
 
-The goal: No two pages should look alike, even for similar products.
+The goal: No two projects should look alike, even for similar products.
 
 ---
 
@@ -21,7 +21,7 @@ Pick ONE: Calm. Energized. Curious. Trusted. Delighted. Impressed. Rebellious. N
 **Q3: Pick TWO unexpected influences to collide:**
 Examples: "medical packaging + skateboard graphics", "spreadsheets + street art", "luxury hotel + punk zine", "NASA mission control + kindergarten", "Japanese convenience store + Victorian library"
 
-**Q4: What should this page NEVER be mistaken for?**
+**Q4: What should this NEVER be mistaken for?**
 Name 2-3 specific things to actively avoid. "A crypto project", "A wellness app", "Something made by a bank", "Anything with purple gradients"
 
 ### Follow-Up Questions (Pick 2-3 Based on Their Answers)
@@ -74,7 +74,7 @@ Take your invented vibe and derive EACH element from it. Do NOT consult any refe
 
 **MOTION INVENTION** (Match the emotion)
 - How does the vibe's energy quality move? Frenetic = jittery micro-movements. Glacial = slow parallax. Surgical = precise snap-to. Tidal = rhythmic ease-in-out.
-- What is ONE signature motion that defines this page?
+- What is ONE signature motion that defines this project?
 
 ---
 
