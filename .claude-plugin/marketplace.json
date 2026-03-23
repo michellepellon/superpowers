@@ -28,7 +28,7 @@
       "description": "Skills for creating distinctive, high-quality web designs.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/landing-page-design"]
+      "skills": ["./skills/frontend-design", "./skills/landing-page-design"]
     }
   ]
 }
