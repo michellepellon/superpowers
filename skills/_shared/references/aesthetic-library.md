@@ -4,7 +4,7 @@
 
 This library is NOT a menu of vibes to pick from. It is a parts bin — font names, hex codes, and CSS techniques you can cannibalize AFTER you've invented your own direction.
 
-If you haven't completed the Vibe Discovery process and written a Vibe Spec, go back and do that first. See `skills/_shared/references/vibe-discovery.md` for the full generative process.
+If you haven't completed the Vibe Discovery process and written a Vibe Spec, go back and do that first. See `vibe-discovery.md` for the full generative process.
 
 ## Rules for Using This Library
 
