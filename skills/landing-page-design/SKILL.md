@@ -20,7 +20,7 @@ Build landing pages that convert AND captivate. This skill combines conversion-f
 
 **BEFORE writing any code, you MUST run the Vibe Discovery process.** This generates a UNIQUE aesthetic direction every time — no two landing pages should look alike.
 
-See the full process: `../../_shared/references/vibe-discovery.md`
+See the full process: `../_shared/references/vibe-discovery.md`
 
 The process will guide you through:
 1. Gathering context via structured questions (place/object, emotion, collision, anti-patterns)

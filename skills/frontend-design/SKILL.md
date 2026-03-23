@@ -20,7 +20,7 @@ This skill guides creation of distinctive, production-grade frontend interfaces 
 
 **BEFORE writing any code, run the Vibe Discovery process.** Do not skip this step, do not pick from a menu, and do not fall back on comfortable defaults. The Vibe Discovery process ensures every project starts with a unique aesthetic direction derived from the real world rather than from pattern-matched AI defaults.
 
-See the full process in `../../_shared/references/vibe-discovery.md`.
+See the full process in `../_shared/references/vibe-discovery.md`.
 
 ## Frontend Aesthetics Guidelines
 
@@ -79,7 +79,7 @@ Match implementation complexity to the aesthetic vision. Maximalist designs need
 
 ## Aesthetic Reference Library
 
-For implementation raw materials — font pairings, hex codes, CSS techniques, and layout patterns organized by aesthetic category — see `../../_shared/references/aesthetic-library.md`. This is a parts bin for cherry-picking after you have completed Vibe Discovery, not a menu of styles to adopt wholesale.
+For implementation raw materials — font pairings, hex codes, CSS techniques, and layout patterns organized by aesthetic category — see `../_shared/references/aesthetic-library.md`. This is a parts bin for cherry-picking after you have completed Vibe Discovery, not a menu of styles to adopt wholesale.
 
 ## Choosing an Aesthetic
 
