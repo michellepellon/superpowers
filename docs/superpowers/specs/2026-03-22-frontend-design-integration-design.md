@@ -107,7 +107,7 @@ metadata:
 
 **What changes:**
 
-- **Vibe Discovery section** (~lines 19-205): Replace with a brief mandatory gate + reference to `../_shared/references/vibe-discovery.md`. Keep the "Shinjuku Runway" example inline as a quick reference, or move it to the shared file.
+- **Vibe Discovery section** (~lines 19-205): Replace with a brief mandatory gate + reference to `../_shared/references/vibe-discovery.md`. Move the "Shinjuku Runway" example to the shared vibe-discovery.md file so both skills benefit from it.
 - **Anti-AI-Slop Principles** (~lines 267-295): Replace with reference to `frontend-design` skill's guidelines. Keep a brief note about landing-page-specific icon set recommendations.
 - **Inspiration Starters** (~lines 164-184): Remove — now in shared aesthetic library.
 
