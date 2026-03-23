@@ -91,7 +91,7 @@ Final conversion push:
 
 ## Anti-AI-Slop Principles
 
-For the full anti-slop guidelines (fonts, colors, icons, layouts), see the `frontend-design` skill's guidelines.
+For the full anti-slop guidelines (fonts, colors, icons, layouts), see `../frontend-design/SKILL.md`.
 
 **Landing-page-specific notes:**
 - Icons: Use Iconify Solar (multiple styles), Heroicons, or Phosphor — avoid Lucide (overused in AI-generated pages)
