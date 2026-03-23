@@ -10,6 +10,8 @@ metadata:
   adapted-from: harperreed/dotfiles/.claude/skills/frontend-design
 ---
 
+# Frontend Design
+
 ## Overview
 
 This skill guides creation of distinctive, production-grade frontend interfaces for general-purpose work: components, pages, and applications. It is not for landing pages — use the `landing-page-design` skill for those. Implement real working code (HTML/CSS/JS, React, Vue, etc.) with exceptional attention to aesthetic details and creative choices that make every project feel genuinely designed for its context.
