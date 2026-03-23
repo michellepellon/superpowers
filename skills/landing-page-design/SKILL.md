@@ -18,191 +18,16 @@ Build landing pages that convert AND captivate. This skill combines conversion-f
 
 ## MANDATORY: Vibe Discovery (Do This First)
 
-**BEFORE writing any code, you MUST run the Vibe Discovery process.** This isn't a lookup table - it's a creative prompt that generates a UNIQUE aesthetic direction every time.
+**BEFORE writing any code, you MUST run the Vibe Discovery process.** This generates a UNIQUE aesthetic direction every time — no two landing pages should look alike.
 
-The goal: No two landing pages should look alike, even for similar products.
+See the full process: `../../_shared/references/vibe-discovery.md`
 
----
-
-### The Vibe Discovery Process
-
-**Ask the user these questions, then SYNTHESIZE a unique direction. Don't just map answers to presets.**
-
-#### Step 1: Gather Context (Ask These)
-
-**Q1: What's one real-world place or object this brand would be?**
-> Not "what industry" - an actual specific thing. A Tokyo convenience store at 2am. A grandmother's kitchen. A brutalist parking garage. A coral reef. The cockpit of a 747. A flea market in Marrakech. A 1970s recording studio.
-
-**Q2: What's the ONE emotion someone should feel in the first 3 seconds?**
-> Pick ONE: Calm. Energized. Curious. Trusted. Delighted. Impressed. Rebellious. Nostalgic. Inspired. Amused. Sophisticated. Welcomed. Intrigued. Confident.
-
-**Q3: Pick TWO unexpected influences to collide:**
-> Examples: "medical packaging + skateboard graphics", "spreadsheets + street art", "luxury hotel + punk zine", "NASA mission control + kindergarten", "Japanese convenience store + Victorian library"
-
-**Q4: What should this page NEVER be mistaken for?**
-> Name 2-3 specific things to actively avoid. "A crypto project", "A wellness app", "Something made by a bank", "Anything with purple gradients"
-
-#### Step 2: Invent The Aesthetic (Don't Look Up - Create)
-
-Based on the answers, CREATE a unique vibe by deciding:
-
-**COLOR INVENTION** (Don't use memorized palettes - derive from the place/object)
-- What colors exist in that real-world place/object from Q1?
-- Extract 3-4 colors that feel authentic to that reference
-- Invent specific hex codes fresh - don't reuse codes from previous projects
-- Name your palette something evocative (not "blue and orange" but "Midnight Bodega" or "Rust Belt Morning")
-
-**TYPOGRAPHY INVENTION** (Match the voice to the collision)
-- What would text sound like in that place?
-- Find a display font that embodies the collision from Q3
-- Don't default to your usual choices - browse Google Fonts with fresh eyes
-- Consider: weight, width, contrast, quirks
-
-**LAYOUT INVENTION** (Derive from the physical space)
-- How is space organized in that place from Q1?
-- Is it cramped or expansive? Grid-like or organic? Vertical or horizontal?
-- What unexpected layout choice would embody the collision from Q3?
-
-**MOTION INVENTION** (Match the emotion)
-- How does the emotion from Q2 move?
-- Calm = barely perceptible. Energized = kinetic. Sophisticated = slow and deliberate.
-- What's ONE signature motion that defines this page?
-
-#### Step 3: Write Your Vibe Spec
-
-Before coding, write this out explicitly:
-
-```
-VIBE NAME: [Invent a 2-3 word name]
-REFERENCE: [The place/object from Q1]
-EMOTION: [From Q2]
-COLLISION: [From Q3]
-ANTI-PATTERNS: [From Q4]
-
-COLORS:
-- Primary: [hex] - [why this color]
-- Secondary: [hex] - [why]
-- Background: [hex] - [why]
-- Accent: [hex] - [why]
-- Palette name: [evocative name]
-
-TYPOGRAPHY:
-- Display: [specific font name] - [why it fits]
-- Body: [specific font name] - [why]
-- Character: [describe the voice]
-
-LAYOUT:
-- Density: [sparse/balanced/dense]
-- Shapes: [sharp/rounded/organic/mixed]
-- Signature element: [one unusual layout choice]
-
-MOTION:
-- Level: [still/subtle/moderate/dynamic/chaotic]
-- Signature animation: [one specific animation that defines this]
-
-WILDCARD:
-- One unexpected detail that doesn't "match" but makes it memorable
-```
-
-#### Step 4: The Freshness Check
-
-Before proceeding, verify:
-- [ ] I did NOT reuse hex codes from my last 3 projects
-- [ ] I did NOT default to my "comfortable" fonts (check: am I using Inter? Nunito? Space Grotesk? If yes, find something else)
-- [ ] The collision from Q3 is actually visible in my choices
-- [ ] Someone could NOT mistake this for my previous landing pages
-- [ ] I included a wildcard that surprises even me
-
----
-
-### Example Vibe Discovery
-
-**Q1 - Place/Object:** "A Japanese train station at rush hour"
-
-**Q2 - Emotion:** "Confident"
-
-**Q3 - Collision:** "Transit signage + haute couture"
-
-**Q4 - Never mistaken for:** "A meditation app, anything whimsical, startup-bro tech"
-
-**Generated Vibe Spec:**
-
-```
-VIBE NAME: Shinjuku Runway
-REFERENCE: Japanese train station at rush hour
-EMOTION: Confident
-COLLISION: Transit signage + haute couture
-ANTI-PATTERNS: No soft gradients, no playful illustrations, no rounded friendly shapes
-
-COLORS:
-- Primary: #1a1a1a - the black of train doors
-- Secondary: #f5f5f0 - platform concrete, worn smooth
-- Background: #fafaf8 - fluorescent-lit white
-- Accent: #e60012 - JR line red, commanding attention
-- Palette name: "Platform Edge"
-
-TYPOGRAPHY:
-- Display: Darker Grotesque - confident, slightly condensed, European edge
-- Body: Noto Sans JP - clean utility, transit-inspired
-- Character: Authoritative but not cold. Clear. Directional.
-
-LAYOUT:
-- Density: Rich but organized - like a station map
-- Shapes: Sharp with intentional rounded exceptions (like train windows)
-- Signature element: Strong horizontal bands that divide sections like train schedules
-
-MOTION:
-- Level: Subtle but precise
-- Signature animation: Elements slide in from the side like arriving trains - horizontal, smooth, with exact timing
-
-WILDCARD:
-- One element uses a fabric-like texture overlay - the haute couture collision
-```
-
----
-
-### Inspiration Starters (When Stuck on Q1)
-
-**Spaces:**
-Night market in Bangkok | Empty museum at closing | Airport lounge at 4am |
-Vintage record store | Hospital waiting room | Casino floor |
-Greenhouse in winter | Subway platform | Observatory dome |
-Abandoned factory | Luxury yacht interior | 24-hour laundromat |
-Library rare books room | Auto body shop | Space station module
-
-**Objects:**
-1980s synthesizer | Surgical instruments | Vintage luggage |
-Racing motorcycle | Antique compass | Industrial loom |
-Neon sign | Typewriter | Scientific glassware |
-Leather-bound book | Circuit board | Porcelain dishware
-
-**Eras/Movements:**
-Soviet constructivism | Memphis design | Swiss international |
-Art nouveau | Bauhaus | De Stijl |
-Googie architecture | Streamline moderne | Brutalism |
-Japanese metabolism | Scandinavian modernism | Italian futurism
-
----
-
-### The Anti-Convergence Rules
-
-1. **No hex code memory** - Generate colors fresh from the reference, don't recall "my usual blue"
-2. **Font rotation required** - Cannot use the same display font in consecutive projects
-3. **Collision must show** - If someone can't see BOTH influences from Q3, push harder
-4. **Wildcard is mandatory** - Every vibe needs one element that doesn't "fit" but makes it unique
-5. **Name it** - An unnamed vibe becomes generic. A named vibe has identity.
-
----
-
-### Quick Context Questions (Minimal Version)
-
-If the user just says "make me a landing page" with no context, ask:
-
-1. "What's one place or object that captures this brand's energy?"
-2. "What emotion should dominate?"
-3. "What should this NEVER look like?"
-
-Then synthesize a vibe from those three answers.
+The process will guide you through:
+1. Gathering context via structured questions (place/object, emotion, collision, anti-patterns)
+2. Inventing a unique vibe via the Collision Method (material + energy = vibe seed)
+3. Deriving colors, typography, layout, and motion from the vibe seed
+4. Writing a Vibe Spec
+5. Running the Freshness Check to prevent convergence
 
 ---
 
@@ -266,33 +91,11 @@ Final conversion push:
 
 ## Anti-AI-Slop Principles
 
-### Icons: Avoid Lucide (Overused)
-Use instead:
-- **Iconify Solar**: Multiple styles (outline, broken, duotone)
-- **Heroicons**: When you need Apple-like simplicity
-- **Phosphor**: Flexible weight system
-- **Custom SVGs**: For brand differentiation
+For the full anti-slop guidelines (fonts, colors, icons, layouts), see the `frontend-design` skill's guidelines.
 
-### Fonts: Kill Inter/Roboto
-Distinctive alternatives:
-- **Display**: Newsreader, Playfair Display, Space Grotesk, Clash Display
-- **Body**: Outfit, Plus Jakarta Sans, Manrope, Satoshi
-- **Mono**: JetBrains Mono, IBM Plex Mono, Fira Code
-
-### Colors: No Purple Gradients
-Bold alternatives:
-- Deep navy + electric accent
-- Warm neutrals + single pop color
-- Monochromatic with tonal depth
-- Dark mode with neon accents
-- Earthy/organic palettes
-
-### Layouts: Break the Grid
-- Overlapping elements
-- Diagonal sections
-- Asymmetric spacing
-- Container-breaking hero elements
-- Negative space as design element
+**Landing-page-specific notes:**
+- Icons: Use Iconify Solar (multiple styles), Heroicons, or Phosphor — avoid Lucide (overused in AI-generated pages)
+- For icon integration: use Iconify's unified API for access to all sets
 
 ## Animation Vocabulary
 
